@@ -1,7 +1,23 @@
 what is #include ?
-int main is necessary to use?
-why use ()?
-why we use "" & ;?
+ the #include directive tells the preprocessor to
+ insert the contents of another file into the source code at the 
+ point where the #include directive is found. Include directives
+ are typically used to include the C header files for C functions 
+ that are held outsite of the current source file.
+ 
+what is void main ?
+void main() is the main function that is the entry point
+for execution in C program. Where void represents that
+function is not gonna return anything but a void value. 
+
+why we use {}?
+A left brace, {, begins the body of every function . A corresponding right brace
+ends each function . This pair of braces and the portion of the program between
+the braces is called a block. 
+
+why we use "" and ;?
+
+
 what is printf?
 why we use retur 0?
 why use {}?
